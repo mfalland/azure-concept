@@ -13,5 +13,5 @@
 9. [Naming Standards](documents/naming.md)
 10. [Identity Management](documents/identity_management.md)
 11. [Operating Azure IaaS Services](documents/operating_azure_iaas_services.md)
-12. [Offering Management for Cloud-Based Services](offering_management_for_cloud-based_services.md)
-13. [Managing Security, Compliance and Data Privacy](managing_security,_compliance_and_data_privacy.md)
+12. [Offering Management for Cloud-Based Services](documents/offering_management_for_cloud-based_services.md)
+13. [Managing Security, Compliance and Data Privacy](documents/managing_security,_compliance_and_data_privacy.md)
